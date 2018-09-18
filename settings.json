@@ -1,0 +1,16 @@
+{
+    "workbench.colorTheme": "Ayu Mirage",
+    "workbench.iconTheme": "Monokai Pro Icons",
+    "editor.fontFamily": "'Fira Code', 'Source Code Pro'",
+    "editor.fontLigatures": true,
+    "workbench.startupEditor": "newUntitledFile",
+    "eslint.autoFixOnSave": true,
+    "editor.tabSize": 2,
+    "window.menuBarVisibility": "toggle",
+    "markdown.extension.preview.autoShowPreviewToSide": true,
+    "window.zoomLevel": 0,
+    "explorer.confirmDragAndDrop": false,
+    "editor.renderWhitespace": "none",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "files.eol": "\n"
+}
